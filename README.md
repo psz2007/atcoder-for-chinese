@@ -24,9 +24,9 @@
 
 Atcoder Descripution and Solution for Chinese. Now support both [web](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/) and [script](https://greasyfork.org/zh-CN/scripts/452449-atcoder-%E4%B8%AD%E6%96%87%E5%8A%A9%E6%89%8B) version.
 
-# Atcoder 中文版
+# Atcoder 中文站
 
-Atcoder 中文版题解与题面。现在支持[网页版](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/)和[插件版](https://greasyfork.org/zh-CN/scripts/452449-atcoder-%E4%B8%AD%E6%96%87%E5%8A%A9%E6%89%8B)。
+Atcoder 的中文版题解与题面。现在支持[网页版](https://atcoder-for-chinese-developers.github.io/atcoder-for-chinese/)和[插件版](https://greasyfork.org/zh-CN/scripts/452449-atcoder-%E4%B8%AD%E6%96%87%E5%8A%A9%E6%89%8B)。
 
 ## 如何贡献
 
@@ -150,7 +150,9 @@ Markdown 文件内写入题解/题面内容，题解没有特定格式要求。
 
 - $2022.11.10$ 再次修改上传格式，`list.json` 由 Github Actions 自动生成，文件名格式有变。
 
-- $2022.11.17$ 实现初步的导入用户功能
+- $2022.11.17$ 实现初步的导入用户功能。
+
+- $2022.12.28$ 加上了其他比赛的界面显示，给过长的筛选列表加了个页码。
 
 ## 友情链接
 
